@@ -20,7 +20,7 @@ pipeline {
         }
         stage("Build Image"){
             steps{
-                sh 'sudo docker build -t node-app:1.0 .'
+                sh 'docker build -t node-app:1.0 .'
             }
         }
         stage('Docker Push') {
