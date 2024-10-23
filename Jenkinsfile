@@ -23,7 +23,7 @@ pipeline {
                 sh 'docker build -t node-app:1.0 .'
             }
         
-
+        }
          stage("Login to DockerHub") {
             steps {
                 script {
@@ -40,6 +40,6 @@ pipeline {
             }
         }
 
-        }  
+        
     }
 }
