@@ -22,16 +22,24 @@ pipeline {
             steps{
                 sh 'docker build -t node-app:1.0 .'
             }
-        }
-        stage('Docker Push') {
+        
+
+         stage("Login to DockerHub") {
             steps {
-                withCredentials([usernamePassword(credentialsId: 'dockercred', passwordVariable: 'DOCKERHUB_PASSWORD', usernameVariable: 'DOCKERHUB_USERNAME')]) {
-                    sh 'docker login -u $DOCKERHUB_USERNAME -p $DOCKERHUB_PASSWORD'
-                    sh 'docker tag node-app:1.0 anubhcv/node-app:1.0'
-                    sh 'docker push anubhcv/node-app:1.0'
-                    sh 'docker logout'
+                script {
+                    // Login to DockerHub
+                    def dockerhub_creds = credentials('docker-log')
+                    sh "echo ${dockerhub_creds.password} | docker login -u ${dockerhub_creds.username} --password-stdin"
                 }
             }
         }
+
+        stage("Push Image") {
+            steps {
+                sh 'docker push anubhcv/node-app:1.0'
+            }
+        }
+
+        }  
     }
 }
