@@ -1,0 +1,391 @@
+Jeans instability : conditions under which a cloud of gas becomes gravitationally unstable and collapse to form a new object.
+
+self gravity overcomes pressure force and the cloud collapses leads to a denser cloud, G becomes stronger, further collapse, new object forms
+
+ISM gas between stars, interstellar medium
+
+Type Ia supernova: occurs in binary systems, one of them is a white dwarf, the other one can be anything 
+
+Characterized by very specific light curve, rapid rise in brightness then much slower decline over weeks after the explosion.
+
+Standard candles because of the Phillip relative that connects the maximum B band magnitude to the dimming rate(known peak luminosity, very bright so the are visible at long distances)
+
+Supernova remnants observed with radio telescopes because they emit synchrotron radiation(radiation produced by high energy electrons spiraling around magnetic field lines). The e!- are caused by shock waves that accelerate the particles.
+
+Metallicity : amount of elements we have in comparison to H
+
+Origins : exploding white dwarf, newton star merger, interaction of high energy cosmic rays with interstellar gas, accretion of intergalactic gavel metals are formed in the cave of stars as they evolve. 
+
+Interstellar dust shows a temperature below the effective surface T at stars due to thermal radiation(causes radiation shift from blue to red - absorbs blue from stars, heats up, loses energy and reflects red).
+
+Rayleigh scattering reddening of the star light passing through the dust
+
+
+
+Page-2
+
+Typical extinction curve, why extinction causes reddening?
+
+Extinction curve indicates average absorption.
+ Cross section !
+
+Reddening occurs due to the light scattering of dust and other matter in the interstellar medium. Interstellar dust absorbs and scatters blue light waves more than red light waves, making stars appear redder than they are. Similar to the red sunset phenomenon, caused by dust particles in the atmosphere.
+
+Page-3
+
+Luminosity: amount of light emitted by an object
+
+Standard candles: objects with known luminosity from their periodic properties ! Cepheids have a #pulsator period that's why we can calculate their absolute magnitude
+
+Redshift:known from the lab
+
+Effect caused by the doppler effect, as an object moves away from it redshift is observed as a displacement of spectral lines towards larger wavelengths 
+z=0,1 : means the galaxy is moving away from us at 10% of C
+
+Hubble law : the velocity at which a galaxy is moving is proportional to our distance from it
+
+HII residues are formed when high energy radiation ionizes the surrounding gas
+
+hot massive young star    emission of UV radiation     ionization of H2 from surrounding gas      free protons and electrons are formed
+
+Ionized H gas emits light creating a spectrum at specific wavelengths corresponding to the transition between energy levels in the atoms. Mark prominent lines are a recombination and produce the Balmer series (
+
+For OIII (double ionized oxygen 5000 ) basically the same process, ionization of gas produces ions such as O+2 and these ions produce emission lines 
+
+Cooling time : time it takes for a gas to radiate away thermal energy
+
+Hertz Russel diagram
+
+
+
+page-4
+
+Criterion to assign a spiral galaxy to a specific Hubble type
+
+Ratio of the luminosity of the bulge compared to the disk(how bright is the central bulge compared to the central disk)
+
+Amount of winding of the spiral arms(how tightly/loosely the spiral arms are)
+
+Properties that systematically vary:
+The arms in late type galaxies tend to be fragmented/knotty.
+Early type (Sa) have prominent, bright central bulges and tightly wound arms. Sa~30%
+Late type (Sc) have less prominent bulges and loosely wounded arms Sc~5%
+Sa have smoothly distributed stars in their arms
+(Arms are sites of ongoing start formation)
+(Spiral galaxies are populated by stars that are average, much younger than the ones in elliptical galaxies)
+Sa have older stars and vice versa
+Inclination of the arms:
+Sa~6
+
+Freeman's law: almost all disk galaxies show the same central surface brightness 
+
+
+
+page-5
+
+Winding problem: if spiral arms would move with the stars they would get wound up after a few million years. Spiral arms would be short lining.
+
+Epicyclic motion: Small circular orbits that stars execute around the galaxies GC. Small perturbation lead to the stars to move radially + azimuthally which flattens the curvature area
+
+Toomre criterion for instable disks :
+high matter density leads to growth in perturbation and the disk becomes unstable. K decreases, stars move slower in the arms.
+
+Types of elliptical galaxies:
+CD : central dominant, most massive, very luminous, in the center of clusters.
+EO-E7 galaxies : number stands for ellipticity, smooth light distribution, yellow red because they contain older stars.
+
+Vancoulers profile :
+
+Strong encounter : When velocities and trajectories are altered. Strong encounter radius: min. radius for velocities and trajectories to be affected
+For a sun like star
+
+How often do we expect strong encounters?
+On average once every few billion years : age of the universe exceeds Hubble time
+
+Virial theorem:
+The system is in equilibrium.
+
+Yes Bulges can be small elliptical galaxies
+Both have old stars(II)
+Both have smooth light distribution and appear yellow-red
+But their formation is different 
+Bulges in the center of galaxies due to internal pressure and the elliptical ones dues to collision of 2 galaxies
+page-6
+Star formation rate :
+mass of newly formed stars over period t.
+Rate at which galaxies form star : amount of mass being converted into stars per unit per time
+
+Traces of estimate SFR:
+UV continuous: young stars emit in UV region, we measure UV flux to determine SFR
+IR continuous: warm dust heat up by young stars are in the IR spectrum
+H emission lines: ionized gas surrounding young stars emit strong H! lines
+
+Spectral energy distribution: plot over a large distribution
+
+Colour: difference between an objects apparent magnitudes in different wavelengths B-V index:
+Early galaxy type small B-V index, as it is dominated by older redder stars
+
+Rotation curve of a disk galaxy plot of rotated velocity vs distance from the galaxy center
+It can be measured by observing the Doppler effect in the emitted lines.
+For example spiral galaxies can be observed by observing the doppler shift at 21cm emission lines from the H gas
+
+Velocity dispersion depends on the stellar age and mass. Younger stars(O, B and A) often have lower velocities as they are often found in open clusters where stars are born and usually have similar velocities High mass stars(O, B) exert stronger gravitational force which can influence nearby stars.
+
+page -7
+Column star formation rate(SFR) vs Column gas density for spiral galaxies
+
+Kenn Schmidt Law SFR increases with gas mass
+
+Below gas column density of
+no stars are formed
+
+If the timescale was the same everywhere we would expect 10x higher star formation.
+
+Features of the spectrum
+SC type(late) galaxy: finishes at ~800 !, peak for
+increase in counts up to ~5000 and later decreases
+
+mass enclosed by the sun's orbit? M(<R)
+
+Tully Fisher relation: Empirical relation between the intrinsic luminosity and the rotation velocity width. (L~!); Apparent brightness F
+Since the mass intrinsic luminosity depends on the distance, we can estimate distances between galaxies from rotational velocity movements.
+
+Mass-to-light radio (M/L) dependence on the type of galaxy?
+Stars are born with a range of masses and it's their mass which determines both luminosity and lifetime of the star. Most of the luminosity can be contributed from massive stars !, while most of the mass is a contribution of the lighter stars, this is a convergence of steep dependence of stellar luminosity or mass L!
+For b type galaxies: more loose wound arms than a.  
+
+page-8
+Spectrum of an elliptical galaxy: characterized by strong absorption lines due to metals in the stellar atmospheres of the low luminosity stellar population. Few to none emission lines, due to the lack of young stars and gas.
+
+Origin of emission components of an SED(Spectral energy distribution)
+
+Accretion disk: Formed by cold material close to a blackhole. Matter is transported inwards but momentum outwards, causing the accretion disk to heat up 
+
+Dusty forms: Obscures radiation from the accretion disk and other central regions.
+
+Hot corona: The accretion disk is sandwiched by a corona of hot plasma which inverse comptonizes the optical UV disk photons to produce X-rays.
+
+Non-thermal radio: Due to interactions with relativistic non thermal electrons(e.g. produced in a flame - these electrons come from cold plasma which is not in therma equilibrium) injected at the top of an accretion disk magnetic loop
+
+Variability of broad line features: Intensity can vary on different time scales
+Time scale of days size is around 0,3 pc
+
+At high velocities(like 10,000km/s) there is Doppler broadening.
+
+Viewing angle effect on determination of observed features of an AGN
+Can cause extra redshifts and in some research it has been discussed that to measure the luminosity distance the viewing angle may play an important role.
+
+Galaxies showing jets and lobes in radio, but no AGN in optical, Why?
+Due to the viewing angle, the effect of the synchrotron radiation from the jets, disturbance in the host galaxy's morphology, distance from the jets to the host galaxy(200 Mpc)
+
+Comoving distance between 2 distant galaxies
+
+radial distance
+X - comoving coordinates
+a - scale factor
+
+page -9
+
+Escape velocity: needed to escape from the potential wall of a mass
+
+We know the of a black hole at the center of the milky way because we measure the radius r at which with the radius we can determine the mass enclosed in the center.
+
+How do we measure the mass of a black hole?
+
+Dynamic method:
+as a fraction of the radius of the galaxy
+
+Coevolution: correlated to m and v of stars in the galaxy's bulge
+
+AGN not a phase of stellar evolution
+
+Observational features:
+Bright unresolved core emission 
+Strong blue component in the spectrum(may outshine hot galaxies)
+high ionization lines
+Broad SED(emits in MIR, UV, D, A, X-ray, !, Radio)
+
+Presence of AGN:
+increase of emission below 4000!
+broad H emission line
+really high oxidation lines    
+
+SED of an AGN
+
+Seyfort galaxies:
+bright unresolved core
+no radio emission
+high excitative energy lines - narrow
+
+Broad Balmer lines ~100!
+Strong UV continuum
+Stellar absorption lines are weak
+
+Stellar absorption is stronger
+reddening due to dust
+
+
+page 10
+
+Why galaxies at the edge do not show a broad line feature?
+The broad line region(BLR) is located in a flattened disk structure ! to the accretion disk ! also to the sight from an edge on galaxy.
+As a result BLR are observed by intervening lines from dust in the disk.
+
+Quasar: Quasi stellar radio sources, super luminous AGN powered by the accretion of mass onto a SMBH, emits a lot of energy in form of light and radiation. Outshines most of the hot galaxies M <-23
+
+Strong variability in time from quasars due to rapidly changing volume because it is a very compact object with high luminosity.
+Small change in the accretion disk leads to a big impact.
+
+Temperature profile of a thin accretion disk
+Due to black body emission and release of gravity energy 
+
+Eddington limit 
+max rate at which BH can accrete matter
+
+When force (radiation pressure of accrete matter) > F accretion is prevented
+
+Cosmic microwave Background: Leftover radiation from the big bang.
+Stretches to longer wavelengths at the universe expands T~2, 7 K
+Follows a perfect black body radiation
+
+Abell criterion:
+More than 50 galaxies
+Within Abell radius
+Redshift(0.002 0,2)
+
+Rich most in the magnitude interval 
+
+CD central dominated galaxy giant: Giant elliptical, at the center of galaxy clusters, formed by accretion of smaller galaxies, halo.
+
+How to measure the mass of a galaxy cluster?
+Gravitational lensing: Grav. field bends and magnifies the background higher the distortions are studied to get the mass distribution.
+Virial theorem
+X-ray emission: total X-ray luminosity ~n
+
+
+
+
+
+
+
+Freeze-out: Equilibrium can no longer be maintained
+Collision rate for a reaction between species n and m with a cross-section !     leads to a collision time     to assess if equilibrium can be maintained we compare:
+
+
+if   equilibrium can be maintained      equilibrium cannot be maintained, reactions do not take place species freeze out
+
+Reaction rate becomes slower than expansion of the universe.
+
+Ex: WIMPs - Weakly interacting mass particles. In the early universe T was high and WIMPs were in thermal eg.(constantly created and annihilated). As the universe expands, the average E! dropped below the mass of the WIMPs, making it harder for WIMPs to be created
+
+
+77 Causes of dipole anisotropy in the Cosmic Microwave Background temperature distribution
+
+Primarily caused by our motion relative to the rest frame of the CMB(doppler effect ! red/blue shift). This causes a blue shift in the photons in the directions we are moving towards to and a redshift in the ones we are moving away from. Higher temperature in the direction of motion.
+
+
+82 X-ray emissions for telescopes due to:
+- Bremsstrahlung: emission of EM radiation by a particle when it accelerates when passing near an atomic nucleus.  free free
+- Atomic processes: line emission from highly ionized atoms in hot gas.
+
+Efficient because of:
+- Good visibility - hot gas is bright and can be observed at a large distance.
+- Can give us info about mass, temperature and dynamical state
+
+
+83 Because the density is higher and temperature is lower
+Due to its higher density and gravitational pull towards central BH
+Although it has not been observed
+
+84. Luminosity vs. radial distance
+They differ due to the expansion of the universe. Radial distance remains constant because it considers the universe expansion but the luminosity distance will be higher as it takes more time to travel. 
+
+
+
+
+
+
+
+
+
+68. Time dependent Hubble Constant: 
+
+Hubble constant is a measure rate of how the universe is expanding
+
+69. Given a redshift of z=4, the scale factor at that time would be 
+
+
+
+72. This means that 27% of the universe is composed of matter(ordinary and dark matter)
+The ratio can be variable. The critical density depends on the Hubble parameter which changes with time. In the early universe, radiation was more predominant over mass and energy. Now we are in a dark energy dominated era. As the universe increases, ! increases
+
+73. The transition from radiation dominated universe to matter dominated occurs when we fulfill   , from here we get
+
+
+74. Why was the initial Big Bang hot?
+Because all the matter and energy in the universe were concentrated in a minimal volume. As the universe expands it has been cooling down. When this happens, the wavelength of photons gets stretched, which is what we perceive as a redshift. This leads to a decrease in energy, which leads to a decrease in temperature, suggesting then that the very beginning must have been really hot.
+
+
+94. Weak lensing: light from distant galaxies is slightly deflected due to the gravitational effect of matter along its path. The distortions of galaxies around a mass concentration are such that they will tend to align in circular arcs around the mass.
+Weak lensing is a statistical measurement, impossible to detect the deflection in a single background source. There is noise, gravitational lensing sheer and randomness that can affect the results.
+
+97. Damped L! systems in distant quasars
+concentrations of neutral hydrogen gas that are detected in the spectra of quasars
+- When light from a distant quasar passes through the clouds of H, some of it gets absorbed by the hydrogen atoms.
+- the absorbed light excites the electrons in the H to the 1st excited state
+- when these electrons drop back to the ground state, they emit light at the Lymann ! wavelength(1296)
+- the observed spectra consists of Lyman ! lines which are broadened by radiation damping, this is due to the natural lifetime of the excited state
+- these systems are observed at redshift z=2~4
+These systems are believed to have been related the early stages of a galaxy formation, as the high neutral H column densities are typical of sight lines in the Milky way.
+
+
+85
+86. Determine the distance of a galaxy independent to redshift
+1. Cepheids: measure pulsating period ! luminosity ! distance
+2. Type Ia Supernova: well-known peak luminosity abs. magnitude distance
+3. Tully Fisher relation: measure rot. v luminosity distance
+Zeldovich effect: inverse Compton effect photon scatter
+
+91. Einstein ring: around galaxy or BH oceans because the light gets influenced by the mass grav. field between earth and the source of emission. Arcs occur because the mass unit spherically symmetric or the objects aren't in a perfect line.
+
+95. Intergalactic medium(IGM): highly ionized gas( ) between galaxies. Heated by UV background(stars and AGN), cooling by free-free emission.
+96.  forest: gets easily observed by neutral H, light travels through the IGM and emits emission lines. But many of these lines get shifted due to the redshift, so we would see diff. Lyman lines occurring at different redshifts
+
+98. Identification of z>3 galaxies in photometric observations.
+Lyman limit at 912!, everything below is completely absorbed
+Observing this break helps us identify high z galaxies
+Ly! lines are shifted out the optical range
+Extremely high z may lead to continuum Luman emission lines
+
+Lyman
+from n=1 to Uv rang
+
+Balmer from n=2 tp optical spectrum
+
+
+
+
+
+
+
+
+87. Schechter distribution of galaxies approximation of abundance of galaxies in a luminosity interval L+dL
+
+88. Relative fraction dependence on the environment
+In a galaxy cluster: early type galaxies are more common due to the high density of galaxy clusters. The fraction of late type galaxies is higher in different clusters. Outside the galaxy clusters late type galaxies are more common. These environments are less dense, allowing the conservation of angular momentum necessary for the formation disk like galaxies
+
+89. Cosmic web: large structure in the universe with interconnecting filaments of clustered galaxies and genes. We need a wide angle and at least around 1 billion light years image to be able to see it.
+
+Blue ! Spiral galaxies Sa-Sc/Sd 
+Red ! elliptical galaxies. Most luminous galaxies are at the top tip of the red sequence
+
+92.Microlensing event: When a massive object(planet to star size-lens) passes in front of a more distant star from the observer's perspective. The gravity of the lensing object bends the light from the star. It is useful to study objects that emit little to no light.
+Stages: alignment, light bending, magnification, observation.
+
+93. Bullet cluster analysis
+Optical emission(orange or white): represents individual galaxies made up of stars, in the optical range of the spectrum
+
+X-ray emission(pink or red): hot gas in the cluster. Composed of baryonic(ordinary) matter heated to millions of degrees, causing it to emit x-rays.
+
+Weak lensing signal(blue): black matter in the cluster. Its presence is interred through its gravitational effects as light from background galaxies(gravitational lensing).
+In "modified gravity" the ones, the dark matter is expected to follow the distribution of ordinary matter, but in this cluster this weak lensing signal is separated from the ordinary matter, suggesting that most of the mass is dark matter. Dark matter interacts only gravitationally, not electromagnetically, so it would not be slowed down during the collision with x-ray gas.  
